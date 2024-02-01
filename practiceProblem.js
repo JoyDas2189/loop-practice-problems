@@ -22,6 +22,6 @@ var chemistry = 80;
 var physics = 35.45;
 var bangla = 99.50
 
-var averageMarks =( (mathemetics + biology + chemistry + physics + bangla)/2); 
+var averageMarks =( (mathemetics + biology + chemistry + physics + bangla)/5); 
 
 console.log(averageMarks);
